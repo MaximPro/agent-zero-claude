@@ -11,11 +11,14 @@ This is a modified version of the [Agent Zero](https://github.com/frdel/agent-ze
 ## Setup
 
 1. Clone this repository
-2. Install the required dependencies:
+   ```
+   git clone https://github.com/MaximPro/agent-zero-claude
+   ```
+3. Install the required dependencies:
    ```
    pip install -r requirements.txt
    ```
-3. Set up your environment variables:
+4. Set up your environment variables:
    - Create a `.env` file in the project root
    - Add your Anthropic API key:
      ```
